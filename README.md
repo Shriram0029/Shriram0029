@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shriram</h1>
 
-<!--
-**Shriram0029/Shriram0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Artificial Intelligence & Machine Learning Undergraduate <br>
+Machine Learning Engineer • AI Developer • Software Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🏆 Department Topper (2×) &nbsp;|&nbsp;
+💼 AI/ML Engineering Intern &nbsp;|&nbsp;
+🔬 IEEE Computational Intelligence Society
+ • Machine Learning Head (2025–Present)
+ • Data Science Junior Associate (2024–2025)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a pre-final year B.Tech student specializing in Artificial Intelligence and Machine Learning at Rajalakshmi Engineering College.
+
+I enjoy designing and building AI-powered applications by combining Machine Learning, Deep Learning, Natural Language Processing, and Backend Engineering.
+
+My goal is to build scalable, production-ready AI systems that solve real-world problems while continuously improving my software engineering expertise.
+
+---
