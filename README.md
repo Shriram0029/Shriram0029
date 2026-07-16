@@ -70,3 +70,38 @@ My goal is to build scalable, production-ready AI systems that solve real-world 
 <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge"/>
 </p>
+
+---
+
+# 🏆 Certifications
+
+<p align="left">
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=YOUR_BADGE_LINK">
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/SnowPro-Associate-29B5E8?style=for-the-badge"/>
+
+</p>
+
+- **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
+- **SnowPro Associate – Platform Certification**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shriram0029&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriram0029&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shriram0029&theme=github-dark&hide_border=true"/>
+
+</p>
