@@ -93,15 +93,10 @@ My goal is to build scalable, production-ready AI systems that solve real-world 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shriram0029&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriram0029&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shriram0029&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriram0029&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shriram0029&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shriram0029&theme=tokyonight&hide_border=true"/>
 </p>
