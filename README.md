@@ -24,3 +24,49 @@ I enjoy designing and building AI-powered applications by combining Machine Lear
 My goal is to build scalable, production-ready AI systems that solve real-world problems while continuously improving my software engineering expertise.
 
 ---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
+
+---
+
+### AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
+</p>
+
+---
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+---
+
+### Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge"/>
+</p>
